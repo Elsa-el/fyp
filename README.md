@@ -1,2 +1,2 @@
 # Blendify
-An Image Stitching Software
+Final Year Project using RANSAC and SIFT to make panoramic images
